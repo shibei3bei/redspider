@@ -3,7 +3,7 @@
 
 'urlget module '
 
-__author__ = 'shi bei beig'
+__author__ = 'shi bei bei'
 
 from urllib import request
 import ssl
