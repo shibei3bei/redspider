@@ -3,7 +3,7 @@
 
 'urlget module '
 
-__author__ = 'yuan meng'
+__author__ = 'shi bei beig'
 
 from urllib import request
 import ssl
